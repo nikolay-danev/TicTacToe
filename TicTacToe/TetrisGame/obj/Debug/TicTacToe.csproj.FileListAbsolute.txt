@@ -1,0 +1,6 @@
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb

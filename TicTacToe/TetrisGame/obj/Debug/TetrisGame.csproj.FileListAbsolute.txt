@@ -1,0 +1,6 @@
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+c:\users\nikol\onedrive\документи\visual studio 2017\Projects\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
